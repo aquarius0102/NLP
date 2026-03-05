@@ -1,0 +1,5 @@
+{
+  "alpha": 1.0,
+  "backbone": "roberta-base",
+  "max_length": 128
+}

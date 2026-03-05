@@ -1,0 +1,4 @@
+
+# ML artifacts
+BestModel/artifacts/
+*.bin
